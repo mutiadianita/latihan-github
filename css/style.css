@@ -1,0 +1,12 @@
+.bg-blue {
+    background-color: #94BCCD;
+}
+.container-fluid {
+    padding: 0;
+}
+.bg-primary {
+    background-color: #94BCCD !important;
+}
+.text-primary {
+    color:#94BCCD !important;
+}
